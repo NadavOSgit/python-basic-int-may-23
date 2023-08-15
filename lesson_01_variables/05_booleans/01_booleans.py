@@ -19,3 +19,4 @@ print(f"bool('') -> {bool('')}")
 print(f"bool(None) -> {bool(None)}")
 
 
+
